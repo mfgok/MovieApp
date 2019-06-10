@@ -1,2 +1,2 @@
 # MovieApp
-Test amaçlı
+Test amaçlı yazılmıştır
