@@ -15,8 +15,7 @@ namespace MovieApp.Models
                 new Movie(){Id=2,Name="The Green Mile",Description="The lives of guards on Death Row are affected by one of their charges: a black man accused of child murder and rape, yet who has a mysterious gift.",ImageUrl="2.jpg"},
                 new Movie(){Id=3,Name="Back to the Future",Description="Marty McFly, a 17-year-old high school student, is accidentally sent thirty years into the past in a time-traveling DeLorean invented by his close friend, the maverick scientist Doc Brown.",ImageUrl="3.jpg"},
                 new Movie(){Id=4,Name="Braveheart",Description="When his secret bride is executed for assaulting an English soldier who tried to rape her, William Wallace begins a revolt against King Edward I of England.",ImageUrl="4.jpg"},
-                new Movie(){Id=5,Name="Inception",Description="A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.",ImageUrl="5.jpg"},
-
+                new Movie(){Id=5,Name="Inception",Description="A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.",ImageUrl="5.jpg"}
             };
         }
 
